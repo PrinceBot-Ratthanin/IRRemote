@@ -1,0 +1,16 @@
+{
+  "name" : "IRRemote",
+  "title": "IRRemote",
+  "keywords": "IRRemote,ir, remote, PrinceBot, sensor",
+  "description": "Send and receive infrared signals with multiple protocols.",
+  "git": "https://github.com/PrinceBot-Ratthanin/IRRemote/",
+  "author": "Arduino | Block by PrinceBot",
+  "email": "Print081@gmail.com",
+  "url": "https://github.com/PrinceBot-Ratthanin/IRRemote/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "MIT",
+  "image" : "/static/display.jpg",
+  "homepage": "https://github.com/Arduino-IRremote/Arduino-IRremote/"
+}
